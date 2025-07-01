@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sruthi1509
-- 👀 I’m interested in fullstack development and AI
+- 👀 I’m really interest in AI & ML.
 - 🌱 I’m currently learning CS engineering
 - 📫 reach me through sruthismenon1509@gmail.com
 - 😄 Pronouns:she/her
